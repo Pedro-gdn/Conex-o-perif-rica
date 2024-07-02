@@ -109,4 +109,12 @@ margin: auto;
             width: 340px;
         }
     }
+    
+    
 }
+@media (max-width: 1250px) {
+        .branco2 img {
+            width:  400px;
+            height: 500px;
+        }
+    }
