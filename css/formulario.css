@@ -302,6 +302,7 @@ textarea.input {
 @media (max-width: 900px) {
   .form {
     grid-template-columns: 1fr;
+    margin-left: 15px;
   }
 
   .contact-info:before {
