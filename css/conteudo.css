@@ -103,10 +103,12 @@ margin: auto;
     @media (max-width: 500px) {
         .texto h1 {
             font-size: 30px;
+            margin-left: 15px
         }
         .texto p {
             font-size: 15px;
             width: 340px;
+            margin-left: 15px
         }
     }
     
